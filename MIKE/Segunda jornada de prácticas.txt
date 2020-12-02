@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<!-- bla bla bla -->
+<head>
+	<meta charset="utf-8">
+	<title>Trabajo en escuela multigrado</title>
+	<meta name="author" content="Miguel Ángel Sánchez Fuentes">
+	<meta name="description" content="Trabajo en escuela multigrado">
+	<meta name="keywords" content="HTML5">
+</head>
+<body bgcolor="cornflower" text="black">
+
+	<center><h1><font face="Britanic" >Segunda jornada de prácticas</font></h1></center>
+<center><img src="Segunda jornada.JPG" width="500" heigth="350" alt="Escudo"></center>
+
+	<center><p><h5><font face="Century Gothic">Mi primera jornada se dividen en los siguientes dias: 
+                                 </font></h5></p></center>
+<center><p><h5><font face="Century Gothic">1.-Búsqueda de contenidos 20 de septiembre del 2019 . 
+                                 </font></h5></p></center>
+<center><p><h5><font face="Century Gothic">2.-Del 1 al 3 de octubre trabajo en el salón de clases. 
+                                 </font></h5></p></center>
+<center><p><h5><font face="Century Gothic">3.-Consejo técnico 4 de octubre 
+                                 </font></h5></p></center>
+
+	<a href="Principal.html" title="Regresar a nuestra primera página" target="_blank">Regresar a página principal</a>
+	<BR><BR>
+	
+
+
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<!-- bla bla bla -->
+<head>
+	<meta charset="utf-8">
+	<title>Ravenclaw</title>
+	<meta name="author" content="María Fernanda Pimentel Guzmán">
+	<meta name="description" content="Todo sobre la casa de Hogwarts Ravenclaw">
+	<meta name="keywords" content="HTML5">
+</head>
+<body bgcolor="#000c63" text="white">
+
+	<center><h1><font face="forte" >Ravenclaw</font></h1></center>
+	<center><h3><font face="Arial"><p>Ravenclaw [RÉI-ben-klo] es una de las cuatro casas que componen el Colegio Hogwarts de Magia y Hechicería, fundada por Rowena Ravenclaw</p></h3></center>
+	<center><img src="Escudo2.png" width="600" heigth="460" alt="Escudo"></center>
+	<center><h2><font face="Arial" >Logo, by María Fernanda Pimentel Guzmán</font></h2></center>
+
+	<
+
+	<a href="primeraPagina.html" title="Regresar a nuestra primera página" target="_blank">Primera Pagina</a>
+	<BR><BR>
+	<a href="http://www.interactuando.org/ProgramaEducativo" title="Página interactuando"_blank">Interactuando</a>
+	<BR><BR>
+
+
+</body>
+</html>
